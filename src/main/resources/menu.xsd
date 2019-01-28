@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<menu>
+    <cold_dish>
+        <food id="1">
+            <img></img>
+                <title>Ассорти рыбное</title>
+                <description>Cлаболососевая форель, семга</description>
+                <portion weight="грамм">
+                     <ration_1 >100</ration_1>
+                     <ration_2 >20</ration_2>
+                     <ration_3>15</ration_3>              
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        <food id="2">
+            <img></img>
+                <title>Тараталетки с красной икрой</title>
+                <description>Тараталетки с красной икрой</description>
+                 <portion weight="грамм">
+                     <ration_1 >60</ration_1>
+                     <ration_2 >50</ration_2>
+                 </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        <food id="3">
+            <img></img>
+                <title>Закуска по-русски</title>
+                <description>Кусочки атлантической сельди с отварным картофелем, луком,лимонои им зеленью</description>
+                <portion weight="грамм">
+                     <ration_1 >70</ration_1>
+                     <ration_2 >50</ration_2>
+                     <ration_3>2</ration_3>  
+                     <ration_4>10</ration_4>              
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        <food id="4">
+            <img></img>
+                <title>Куриный рулет</title>
+                <description>Куриный рулет собственного производства</description>
+               <portion weight="грамм">
+                     <ration_1 >100</ration_1>
+                     <ration_2 >5</ration_2>                                 
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        <food id="5">
+            <img></img>
+                <title>Бастурма</title>
+                <description>Вяленая вырезка из говяжьего мяса</description>
+                <portion weight="грамм">
+                     <ration_1 >50</ration_1>
+                     <ration_2 >5</ration_2>                                
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        <food id="6">
+            <img></img>
+                <title>Ассорти мясное</title>
+                <description>Нарезка из Буженины, бастурмы,куриного рулета собственного производства и колбасы</description>
+                <portion weight="грамм">
+                     <ration_1 >100</ration_1>
+                     <ration_2 >30</ration_2>
+                               
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        <food id="7">
+            <img></img>
+                <title>Язык отварной</title>
+                <description>Нарезка нежного говяжьего языка, подаётся с хреном</description>
+                <portion weight="грамм">
+                     <ration_1 >80</ration_1>
+                     <ration_2 >20</ration_2>
+                     <ration_3>1</ration_3>  
+                             
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        <food id="8">
+            <img></img>
+                <title>Ассорти баклажаны</title>
+                <description name="жареные баклажаны с помидорами">
+            <inner_descript_1  descript="1. с помидорами">
+                <price_category currency="руб">
+                    <price number="1"></price>
+                </price_category>
+            </inner_descript_1>
+             <inner_descript_2  descript="1. с помидорами">
+                <price_category currency="руб">
+                    <price number="2"></price>
+                </price_category>
+            </inner_descript_3>
+             <inner_descript_3  descript="3. с помидорами">
+                <price_category currency="руб">
+                    <price number="3"></price>
+                </price_category>
+            </inner_descript_1>
+             </description>
+            
+             <portion weight="грамм">
+                     <ration_1 >100</ration_1>
+                     <ration_2 >5</ration_2>                     
+             </portion>
+            
+           
+            
+        </food >
+        
+        
+         <food id="9">
+            <img></img>
+                <title>Соленья по-домашнему</title>
+                <description>Маринованные овощи</description>
+               <portion weight="грамм">
+                     <ration_1 >150</ration_1>
+                     <ration_2 >10</ration_2>
+                                 
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        <food id="10">
+            <img></img>
+                <title>Бабушкины угощенья</title>
+                <description>Ассорти из маринованных </description>
+               <portion weight="грамм">
+                     <ration_1 >120</ration_1>
+                     <ration_2 >20</ration_2>
+                     <ration_3>10</ration_3>                                 
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        <food id="11">
+            <img></img>
+                <title>Сырная тарелка</title>
+                <description>Сыры Чечел, дор блю, российский, мраморный </description>
+                <portion weight="грамм">
+                     <ration_1 >100</ration_1>
+                     <ration_2 >5</ration_2>                                 
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        <food id="12">
+            <img></img>
+                <title>Брынза</title>
+                <description>Рассольный сыр, изготовленный из овечьего молока </description>
+                <portion weight="грамм">
+                     <ration_1 >75</ration_1>
+                     <ration_2 >5</ration_2>
+                                  
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        <food id="13">
+            <img></img>
+                <title>Зелень</title>
+                <description>Кинза, лук, петрушка, укроп, базилик </description>
+               <portion weight="грамм">
+                     <ration_1 >30</ration_1>
+                                   
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+          <food id="14">
+            <img></img>
+                <title>Ассорти овощное</title>
+                <description>Свежие помидоры, болгарский перец, огурцы, редис и перец</description>
+               <portion weight="грамм">
+                     <ration_1 >150</ration_1>
+                     <ration_2 >10</ration_2>
+                                  
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        <food id="15">
+            <img></img>
+                <title>Овощной букет</title>
+                <description>Корейская морковь, капуста,фунчоза</description>
+                <portion>
+                    <gramm_1>150</gramm_1>
+                        <gramm_2>10</gramm_2>
+                </portion>
+                <price></price>
+        </food >
+        
+        
+        <food id="16">
+            <img></img>
+                <title>Овощи по армянски</title>
+                <description>Мелко нарезанные свежие помидоры, огурцы,болгарский перец, укроп, базилик,кинза, лист салата, зелень</description>
+               <portion weight="грамм">
+                     <ration_1 >150</ration_1>
+                     <ration_2 >40</ration_2>
+                                  
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+         <food id="17">
+            <img></img>
+                <title>Сеньор помидор</title>
+                <description>Помидор фаршированный сырным муссом</description>
+                <portion weight="грамм">
+                     <ration_1 >150</ration_1>
+                     <ration_2 >1</ration_2>
+                                  
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        
+        <food id="17">
+            <img></img>
+                <title>Фестиваль салатов</title>
+                <description></description>
+                <portion weight="грамм">
+                     <ration_1 >400</ration_1>
+                     <ration_2 >10</ration_2>
+                                  
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        <food id="18">
+            <img></img>
+                <title>Оливки, маслины</title>
+                <description></description>
+                <portion weight="грамм">
+                     <ration_1 >50</ration_1>                                  
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        <food id="19">
+            <img></img>
+                <title>Лимон</title>
+                <description></description>
+                <portion weight="грамм">
+                     <ration_1 >60</ration_1>                             
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        <food id="20">
+            <img></img>
+                <title>Мацони</title>
+                <description></description>
+               <portion weight="грамм">
+                     <ration_1 >300</ration_1>
+                               
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+    </cold_dish>
+    
+    
+   
+        <hot_dish>
+             <food id="1">
+            <img></img>
+                <title>Лобио с шампионьонами</title>
+                <description>Фасоль с шампионами и грецкими орехами</description>
+                 <portion weight="грамм">
+                     <ration_1>150</ration_1>
+                     <ration_1>5</ration_1>                               
+                </portion>
+                <price currency="руб">105</price>
+        </food >
+        
+         <food id="2">
+            <img></img>
+                <title>Жульен</title>
+                <description>
+            <inner_descript_1  descript="1. с курицей">
+                <price_category currency="руб">
+                    <price number="1">145 </price>
+                </price_category>
+            </inner_descript_1>
+             <inner_descript_2  descript="1. с грибами">
+                <price_category currency="руб">
+                    <price number="2">155</price>
+                </price_category>
+            </inner_descript_2>
+             
+             </description>
+            
+             <portion weight="грамм">
+                     <ration_1 >120</ration_1>
+                     <ration_2 >1</ration_2>                     
+             </portion>
+            
+           
+            
+        </food >
+        
+        
+        
+         <food id="3">
+            <img></img>
+                <title>Ахтамар мясной</title>
+                <description>Колбаса, ветчина, буженина, сыр, запеченные на мангале в лаваше</description>
+                 <portion quantity="штук">
+                     <ration_1>1</ration_1>
+                                             
+                </portion>
+                <price currency="руб">165</price>
+        </food >
+        
+        
+         <food id="4">
+            <img></img>
+                <title>Сюрприз</title>
+                <description></description>
+                 <portion quantity="штук">
+                     <ration_1>1</ration_1>
+                                             
+                </portion>
+                <price currency="руб">260</price>
+        </food >
+        
+        
+        
+        
+        <food id="5">
+            <img></img>
+                <title>Креветки</title>
+                <description>
+            <inner_descript_1  descript="1. отварные">
+                <price_category currency="руб">
+                    <price number="1">135 </price>
+                </price_category>
+            </inner_descript_1>
+             <inner_descript_2  descript="1. с грибами">
+                <price_category currency="руб">
+                    <price number="2">155</price>
+                </price_category>
+            </inner_descript_2>
+             
+             </description>
+            
+             <portion weight="грамм">
+                     <ration_1 >120</ration_1>
+                     <ration_2 >30</ration_2>                     
+             </portion>
+            
+           
+            
+        </food >
+        
+        
+        
+        <food id="6">
+            <img></img>
+                <title>Мидии по турецки</title>
+                <description>Мидии фаршированные сыром и грецкими орехами</description>
+                 <portion weight="грамм">
+                     <ration_1>150</ration_1>
+                     <ration_1>30</ration_1>
+                                             
+                </portion>
+                <price currency="руб">190</price>
+        </food >
+        
+        
+        
+        <food id="7">
+            <img></img>
+                <title>Эскарго</title>
+                <description>Виноградные улитки, фаршированные по-бургундски</description>
+                 <portion quantity="штук">
+                     <ration_1>12</ration_1>
+                                             
+                </portion>
+                <price currency="руб">230</price>
+        </food >
+        
+            
+        </hot_dish>
+        
+        
+        
+        <breakfasts>
+              <food id="1">
+            <img></img>
+                <title>Глазунья</title>
+                <description>2 яйца(на выбор:ветчина, сыр, помидоры)</description>
+                 <portion weight="грамм">
+                     <ration_1>150</ration_1>
+                    
+                                             
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+          <food id="2">
+            <img></img>
+                <title>Омлет</title>
+                <description></description>
+                 <portion weight="грамм">
+                     <ration_1>100</ration_1>
+                    
+                                             
+                </portion>
+                <price currency="руб"></price>
+        </food >
+        
+        
+        <food id="3">
+            <img></img>
+                <title>Блинчики с мясом</title>
+                <description>Жареные блинчики с мясом</description>
+                 <portion weight="грамм">
+                     <ration_1>150</ration_1>
+                    
+                                             
+                </portion>
+                <price currency="руб"></price>
+        </food >
+            
+        </breakfasts>
+        
+        
+        
+        
+    
+    
+   
+</menu>
